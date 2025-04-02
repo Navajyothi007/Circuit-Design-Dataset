@@ -1,7 +1,7 @@
 # **Circuit Design Dataset**
 
 ## **Dataset Overview**
-This dataset contains `.asc` (LTspice schematic) files for circuit design, along with structured Q&A, modifications, and troubleshooting examples. It is designed for fine-tuning AI models to assist with **semiconductor component selection, circuit designing, and troubleshooting.**
+This dataset contains `.asc` (LTspice schematic) files for circuit design and structured Q&A, modifications, and troubleshooting examples. It is designed for fine-tuning AI models to assist with **semiconductor component selection, circuit designing, and troubleshooting.**
 
 ## **Dataset Structure**
 - refined_fine_tune_dataset.jsnol → A JSON Lines file containing structured Q&A, circuit modifications, and troubleshooting cases.
@@ -28,7 +28,7 @@ This dataset is released under the **MIT License**.
 If you use this dataset, please cite it as:
 ```bibtex
 @misc{CircuitDesignDataset,
-  author = {Navajyothi007},
+  author = {Navajyothi},
   title = {Circuit Design Dataset},
   year = {2025},
   url = {https://github.com/Navajyothi007/Circuit-Design-Dataset}
